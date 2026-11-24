@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this record for the numerical companion and the manuscript for the scientific results."
+type: software
+title: "Numerical companion to SAT-Aided Conditional Collision Analysis of Four Consecutive Rounds of SHA3-512"
+version: 1.0.0
+date-released: 2026-11-24
+repository-code: "https://github.com/Zz-Crypt/sha3-512-paper-results"
+authors:
+  - family-names: Kang
+    given-names: Ning
+    orcid: "https://orcid.org/0009-0001-4809-6705"
+  - family-names: Zhang
+    given-names: Zhongyi
+    orcid: "https://orcid.org/0009-0008-0491-3006"
+  - family-names: Nakata
+    given-names: Keiichi
+    orcid: "https://orcid.org/0000-0002-7986-6012"

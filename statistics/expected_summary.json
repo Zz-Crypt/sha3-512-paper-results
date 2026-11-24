@@ -1,0 +1,109 @@
+{
+  "draws_per_method": 1024,
+  "windows": {
+    "R0-R3": {
+      "equation_count": 24,
+      "methods": {
+        "ec2023": {
+          "kernel_dimension": 76,
+          "consistent": 455,
+          "dimension_counts": {
+            "53": 390,
+            "54": 64,
+            "55": 1
+          }
+        },
+        "cover": {
+          "kernel_dimension": 153,
+          "consistent": 886,
+          "dimension_counts": {
+            "129": 763,
+            "130": 123
+          }
+        },
+        "degree": {
+          "kernel_dimension": 88,
+          "consistent": 897,
+          "dimension_counts": {
+            "64": 804,
+            "65": 92,
+            "66": 1
+          }
+        },
+        "occurrence": {
+          "kernel_dimension": 87,
+          "consistent": 904,
+          "dimension_counts": {
+            "63": 792,
+            "64": 112
+          }
+        },
+        "pair": {
+          "kernel_dimension": 130,
+          "consistent": 740,
+          "dimension_counts": {
+            "106": 494,
+            "107": 246
+          }
+        },
+        "sparse": {
+          "kernel_dimension": 142,
+          "consistent": 895,
+          "dimension_counts": {
+            "118": 762,
+            "119": 133
+          }
+        }
+      }
+    },
+    "R9-R12": {
+      "equation_count": 12,
+      "methods": {
+        "ec2023": {
+          "kernel_dimension": 181,
+          "consistent": 883,
+          "dimension_counts": {
+            "169": 753,
+            "170": 128,
+            "171": 2
+          }
+        },
+        "cover": {
+          "kernel_dimension": 212,
+          "consistent": 1024,
+          "dimension_counts": {
+            "200": 1024
+          }
+        },
+        "degree": {
+          "kernel_dimension": 133,
+          "consistent": 1024,
+          "dimension_counts": {
+            "121": 1024
+          }
+        },
+        "occurrence": {
+          "kernel_dimension": 131,
+          "consistent": 1024,
+          "dimension_counts": {
+            "119": 1024
+          }
+        },
+        "pair": {
+          "kernel_dimension": 182,
+          "consistent": 1024,
+          "dimension_counts": {
+            "170": 1024
+          }
+        },
+        "sparse": {
+          "kernel_dimension": 211,
+          "consistent": 1024,
+          "dimension_counts": {
+            "199": 1024
+          }
+        }
+      }
+    }
+  }
+}

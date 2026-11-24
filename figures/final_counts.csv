@@ -1,0 +1,15 @@
+candidate_set,independent_variables,runs
+coordinate_degree,144,64
+coordinate_occurrence,146,19
+coordinate_occurrence,147,8
+coordinate_occurrence,148,9
+coordinate_occurrence,149,4
+coordinate_occurrence,152,24
+coordinate_pairwise_xor,95,7
+coordinate_pairwise_xor,96,17
+coordinate_pairwise_xor,97,17
+coordinate_pairwise_xor,98,15
+coordinate_pairwise_xor,99,4
+coordinate_pairwise_xor,100,3
+coordinate_pairwise_xor,101,1
+structured_sparse,66,64

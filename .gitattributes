@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.bin binary
+*.pdf binary
+# Keep the archived rank records byte-for-byte.
+statistics/assignment_ranks.csv -text whitespace=cr-at-eol

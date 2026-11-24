@@ -1,0 +1,32 @@
+{
+  "single": {
+    "indices_file": "single_indices_u128le.bin",
+    "sha256": "3da6f94c8f2601f88405e09f88d9f59cb789724fd397f07fe110af37f2546bfa",
+    "samples": 1048576,
+    "sampler_logged_outside": 0,
+    "expected_statistics": {
+      "sampled_affine_rank": 111,
+      "largest_abs_coordinate_z": 2.587890625,
+      "minimum_p_groups8": 0.0382218691637877,
+      "minimum_p_groups16": 0.15202921850252082,
+      "colliding_pairs_first24": 32823,
+      "pair_count_expectation": 32767.96875,
+      "rejected_tests_holm_0_05": 0
+    }
+  },
+  "mixed": {
+    "indices_file": "mixed_indices_u128le.bin",
+    "sha256": "e47169e61b3f134a6485eb484002b358ce1234662fb6a10d347cc851ff85161b",
+    "samples": 1048576,
+    "sampler_logged_outside": 0,
+    "expected_statistics": {
+      "sampled_affine_rank": 111,
+      "largest_abs_coordinate_z": 2.615234375,
+      "minimum_p_groups8": 0.017796872198752516,
+      "minimum_p_groups16": 0.19209942997885743,
+      "colliding_pairs_first24": 33064,
+      "pair_count_expectation": 32767.96875,
+      "rejected_tests_holm_0_05": 0
+    }
+  }
+}
